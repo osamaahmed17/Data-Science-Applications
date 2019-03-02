@@ -1,0 +1,12 @@
+name: PrinipalComponentAnalysis
+title: PrinipalComponentAnalysis
+username:
+account: osamaapplications
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 755861
+bundleId: 1910541
+url: https://osamaapplications.shinyapps.io/PrinipalComponentAnalysis/
+when: 1551508359.90806
+asMultiple: FALSE
+asStatic: FALSE

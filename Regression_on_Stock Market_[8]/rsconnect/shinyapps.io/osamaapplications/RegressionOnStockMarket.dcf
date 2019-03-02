@@ -1,0 +1,12 @@
+name: RegressionOnStockMarket
+title: RegressionOnStockMarket
+username:
+account: osamaapplications
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 755845
+bundleId: 1910531
+url: https://osamaapplications.shinyapps.io/RegressionOnStockMarket/
+when: 1551507904.05472
+asMultiple: FALSE
+asStatic: FALSE

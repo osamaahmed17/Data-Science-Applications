@@ -1,0 +1,12 @@
+name: TwitterAnalysis-FrequentBarChart-WordCloud-AssociationSentiment
+title: TwitterAnalysis-FrequentBarChart-WordCloud-AssociationSentiment
+username:
+account: osamaapplications
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 750065
+bundleId: 1910484
+url: https://osamaapplications.shinyapps.io/TwitterAnalysis-FrequentBarChart-WordCloud-AssociationSentiment/
+when: 1551505333.2046
+asMultiple: FALSE
+asStatic: FALSE

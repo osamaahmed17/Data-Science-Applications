@@ -1,0 +1,13 @@
+name: ProbabilityDistribution
+title: ProbabilityDistribution
+username:
+account: osamaapplications
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 755787
+bundleId: 1910498
+url: https://osamaapplications.shinyapps.io/ProbabilityDistribution/
+when: 1551506123.21442
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: drinks.csv

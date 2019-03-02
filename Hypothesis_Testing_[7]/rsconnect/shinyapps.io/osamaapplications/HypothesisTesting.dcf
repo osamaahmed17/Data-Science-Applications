@@ -1,0 +1,12 @@
+name: HypothesisTesting
+title: HypothesisTesting
+username:
+account: osamaapplications
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 755805
+bundleId: 1910511
+url: https://osamaapplications.shinyapps.io/HypothesisTesting/
+when: 1551506675.46595
+asMultiple: FALSE
+asStatic: FALSE
