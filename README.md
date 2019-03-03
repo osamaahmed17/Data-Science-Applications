@@ -7,7 +7,7 @@ To run any of the following application , load the ui.R and server.R file into R
 This application consisit of Twitter tweet analysis.A person could write any phrase, and could set the number of tweets. Once it is set than the person can make Bar Chart , word cloud , association , stack and find sentiment. The following application cab be accessed online at:
 https://osamaapplications.shinyapps.io/TwitterAnalysis-FrequentBarChart-WordCloud-AssociationSentiment/
 
-<h2>Probability Distribution[6]:</h2>
+<h2>Probability Distribution [6]:</h2>
 This application consist of Probability Distribution , once the application is executed. Load the drink.csv file and the person can easily have the following distribution on any of the value given on the csv file.
 
 **Binomial Distribution**
@@ -43,6 +43,11 @@ A method of analysis which involves finding the linear combination of a set of v
 
 This Application can be viewed online at:
 https://osamaapplications.shinyapps.io/PrinipalComponentAnalysis
+
+<h2>Regression and Classification of Computer Hardware Data [11]</h2>
+The server.R and ui.R can be uploaded to R studio and can be executed locally. Once the application is loaded, upload ComputerHardware.csv file.The regression and classification can performed on the given data and results can viewed accordingly.
+
+
 
 
 
