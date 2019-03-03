@@ -1,7 +1,6 @@
 # Data-Science-Applications
 There are multiple applications which includes the methods of clustering , K-mean , Word Cloud , Randomn Forest, Ordered Weighted Average and PCA. Each of the application can be hosted on the server and can be run as per requirement
-Each of the application be downloaded viewed online.Here is the detailed information regarding each application established in R.
-To run any of the following application , load the ui.R and server.R file into R studio and then Run Application.Each of the application data file is provided along with.
+Each of the application be downloaded viewed online.To run any of the following application , load the ui.R and server.R file into R studio and then Run Application.Each of the application data file is provided along with.
 
 <h2>Twitter Analysis Frequent Bar Chart Word Cloud Association Stack and Sentiment [5]:</h2>
 This application consisit of Twitter tweet analysis.A person could write any phrase, and could set the number of tweets. Once it is set than the person can make Bar Chart , word cloud , association , stack and find sentiment. The following application cab be accessed online at:
