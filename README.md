@@ -22,20 +22,20 @@ The Poisson distribution can be used to calculate the probabilities of various n
 The application can be accessed online at:
 https://osamaapplications.shinyapps.io/ProbabilityDistribution/
 
-<h2>Hypothesis Testing</h2>
+<h2>Hypothesis Testing [7]</h2>
 This application consist of hypothesis testing. Different usecases are provided to perform Hypothesis testing.Once the application is executed , upload the Twin.csv file.Once uploaded , different scenerios can be exectued to perform any operation.
 
 This application can be accessed online at:
 https://osamaapplications.shinyapps.io/HypothesisTesting/
 
-<h2>Regression on Stock Market</h2>
+<h2>Regression on Stock Market [8]</h2>
 This application consist of Regression of the Deere & Company which is an American corporation that manufactures agricultural, construction, and forestry machinery, diesel engines, drivetrains used in heavy equipment, and lawn care equipment. This application
 consist of Barchat, Chart Series ,Density Graph Volum prediction of the stocks price and volume rising and falling from the period of 03/01/2007 to 30/05/2017.
 
 This application can be accessed online at:
 https://osamaapplications.shinyapps.io/RegressionOnStockMarket/
 
-<h2>Principal Component Analysis</h2>
+<h2>Principal Component Analysis [9]</h2>
 This application consist of Principal Componenet Analysis of the Deere & Company which is an American corporation that manufactures agricultural, construction, and forestry machinery, diesel engines, drivetrains used in heavy equipment, and lawn care equipment.A scatter plot can be viewed in one of the tab of the application.
 
 **Principal Component Analysis**
