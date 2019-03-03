@@ -7,7 +7,7 @@ Twitter Analysis Frequent Bar Chart Word Cloud Association Stack and Sentiment [
 This application consisit of Twitter tweet analysis.A person could write any phrase, and could set the number of tweets. Once it is set than the person can make Bar Chart , word cloud , association , stack and find sentiment. The following application cab be accessed online at:
 https://osamaapplications.shinyapps.io/TwitterAnalysis-FrequentBarChart-WordCloud-AssociationSentiment/
 
-Probability Distribution[6]:
+<h2>Probability Distribution[6]:</h2>
 This application consist of Probability Distribution , once the application is executed. Load the drink.csv file and the person can easily have the following distribution on any of the value given on the csv file.
 
 Binomial Distribution
